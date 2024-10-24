@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PauloCampos97/PauloCampos97/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Techs</h3>
 
 ###
