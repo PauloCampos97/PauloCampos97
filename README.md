@@ -16,6 +16,10 @@
   <a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+
+    <a href="https://upfly.cc" target="_blank">
+  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/img-bronze.png" height="40" width="92"  alt="Upfly Logo"  />
+  </a>
   
   <a href="https://www.instagram.com/paulo_polibio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
@@ -24,9 +28,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-  <a href="https://upfly.cc" target="_blank">
-  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/img-bronze.png" height="40" width="92"  alt="Upfly Logo"  />
-  </a>
+
 
 ###
 
