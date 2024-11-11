@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">- Estudando JavaScript, Typescript, React, NodeJs e Python<br>- A procura do primeiro emprego como Dev</p>
+<p align="left">- Estudando JavaScript, Typescript, React, NodeJs, Python e Tailwind <br>- A procura do primeiro emprego como Dev</p>
 
 ###
 
