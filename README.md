@@ -25,7 +25,7 @@
   </a>
 </div>
   <a href="https://upfly.cc" target="_blank">
-  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/fly-Golden-Logo.png" height="40" width="72"  alt="Upfly Logo"  />
+  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/img-bronze.png" height="40" width="72"  alt="Upfly Logo"  />
   </a>
 
 ###
