@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://upfly.cc" target="_blank">
-  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/fly-Neon-Logo.png" height="40" alt="Upfly Logo"  />
+  <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/fly-Neon-Logo.png" height="40" width="80" alt="Upfly Logo"  />
   </a>
   
   <a href="https://www.instagram.com/paulo_polibio/" target="_blank">
