@@ -47,10 +47,7 @@
 <!-- ══════════════════ 02 · ANALYTICS ══════════════════ --> 
 <img src="assets/title-analytics.svg" width="100%" alt="02 — Analytics"/> 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&show_icons=true&hide_border=true&bg_color=060913&title_color=22D3EE&text_color=94A3B8&icon_color=C084FC&locale=pt-br&rank_icon=github&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCampos97&layout=compact&hide_border=true&bg_color=060913&title_color=22D3EE&text_color=94A3B8&locale=pt-br&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Linguagens mais usadas"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&bg_color=060913&color=22D3EE&line=C084FC&point=818CF8&area=true&hide_border=true&custom_title=Atividade%20nos%20Últimos%2031%20Dias" width="95%" alt="Gráfico de Atividade no GitHub"/>
