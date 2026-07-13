@@ -14,12 +14,13 @@
 
 ## WakaTime não mostra dados
 
-**Causa**: API key incorreta ou sem dados registrados.
+**Causa**: API key incorreta, sem dados registrados, ou métrica ainda não gerada.
 
 **Solução**:
 1. Verifique se a extensão WakaTime está instalada e configurada no VS Code
 2. Confirme o valor do secret `WAKATIME_API_KEY`
-3. Teste a chave em [wakatime.com/api-key](https://wakatime.com/api-key)
+3. Execute o workflow `metrics.yml` manualmente
+4. Teste a chave em [wakatime.com/api-key](https://wakatime.com/api-key)
 
 ## SVGs não são atualizados
 

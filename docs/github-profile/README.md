@@ -20,7 +20,7 @@ O perfil é composto por:
 - **README.md** - Perfil principal com seções visuais
 - **8 SVGs de métricas** - Gerados automaticamente pelo lowlighter/metrics
 - **Snake animation** - Animação do grid de contribuições
-- **3 workflows** - GitHub Actions para automação
+- **2 workflows** - GitHub Actions para automação
 
 ## Tecnologias
 

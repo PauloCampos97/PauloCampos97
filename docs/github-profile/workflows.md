@@ -6,7 +6,7 @@ Gera 8 SVGs com métricas do perfil.
 
 **Trigger**: Agendado diariamente (00:00 UTC), push na main, ou manual.
 
-**Plugins utilizados**:
+**Plugins utilizados** (todos ativos e com parâmetros atualizados):
 - Base (general): header, activity, community, repositories, metadata
 - Languages: top linguagens com detalhes
 - Achievements: conquistas do GitHub
@@ -14,7 +14,7 @@ Gera 8 SVGs com métricas do perfil.
 - Habits: hábitos de codificação
 - Calendar: calendário de commits
 - Repositories: repositórios em destaque
-- WakaTime: estatísticas WakaTime
+- WakaTime: estatísticas WakaTime (token via `WAKATIME_API_KEY`)
 
 **Secrets necessários**: `METRICS_TOKEN`, `WAKATIME_API_KEY`
 
@@ -32,8 +32,4 @@ Gera a animação da cobrinha no grid de contribuições.
 
 **Deploy**: Publicado na branch `output/snake/`
 
-## wakatime.yml
-
-Workflow dedicado exclusivamente às métricas WakaTime.
-
-**Trigger**: Agendado diariamente (06:00 UTC) ou manual.
+> **Nota**: As métricas WakaTime são geradas dentro do próprio `metrics.yml` — não há um workflow separado.

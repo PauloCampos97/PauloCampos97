@@ -24,7 +24,6 @@ Crie:
 Acesse a aba **Actions** e execute:
 1. GitHub Metrics → Run workflow
 2. Generate Snake → Run workflow
-3. WakaTime Metrics → Run workflow
 
 ## 5. Verifique os resultados
 
