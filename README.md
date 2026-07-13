@@ -109,24 +109,13 @@
     <!-- CARD 3: Streak -->
     <td align="center" width="33%">
       <a href="https://github.com/PauloCampos97">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=PauloCampos97&hide_border=true&background=152039&stroke=bf3b48&ring=bf3b48&fire=bf3b48&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=bf3b48&sideLabels=6b7280&dates=6b7280&locale=pt-br" width="100%" alt="Streak Stats">
+        <img src="https://streak-stats.demolab.com?user=PauloCampos97&hide_border=true&background=152039&stroke=bf3b48&ring=bf3b48&fire=bf3b48&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=bf3b48&sideLabels=6b7280&dates=6b7280&locale=pt-br" width="100%" alt="Streak Stats">
       </a>
     </td>
   </tr>
 </table>
 
 <br>
-
-<!-- Achievements: cards com notas reais (A+, A, B+, etc.) -->
-<p align="center">
-  <img src="metrics/overview.svg" width="100%" alt="GitHub Achievements &amp; Metrics">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="metrics/extras.svg" width="100%" alt="GitHub Stars &amp; Activity">
-</p>
 
 <br>
 <br>
@@ -169,9 +158,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCampos97/PauloCampos97/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloCampos97/PauloCampos97/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/PauloCampos97/PauloCampos97/output/snake.svg" width="100%" alt="Snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg">
+  <img src="assets/snake-dark.svg" width="100%" alt="Snake animation">
 </picture>
 
 <br>

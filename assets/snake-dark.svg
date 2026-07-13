@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
+  <rect width="860" height="200" fill="#152039" rx="6"/>
+  <text x="430" y="95" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#bf3b48" letter-spacing="2">&#9654; Snake animation will appear after GitHub Action runs</text>
+  <text x="430" y="120" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280">Actions &rarr; Generate Snake Animation &rarr; Run workflow</text>
+</svg>
