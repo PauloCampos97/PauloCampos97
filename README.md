@@ -58,43 +58,17 @@
   <img src="assets/divider.svg" width="100%" alt=""/>
 </p>
 
-<!-- ══════════════════ 02 · ANALYTICS ══════════════════ -->
-<img src="assets/title-analytics.svg" width="100%" alt="02 — Analytics"/>
+<!-- ══════════════════ 02 · ANALYTICS ══════════════════ --> 
+<img src="assets/title-analytics.svg" width="100%" alt="02 — Analytics"/> 
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&show_icons=true&hide_border=true&bg_color=060913&title_color=22D3EE&text_color=94A3B8&icon_color=C084FC&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCampos97&layout=compact&hide_border=true&bg_color=060913&title_color=22D3EE&text_color=94A3B8&locale=pt-br&langs_count=8" alt="Linguagens mais usadas"/>
+<p align="center"> 
+  <img src="metrics/overview.svg" width="480" alt="Métricas do GitHub"/> 
+  <img src="metrics/extras.svg" width="400" alt="Métricas extras"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PauloCampos97&hide_border=true&background=060913&ring=22D3EE&fire=C084FC&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
 
-<!-- SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
-  <img src="assets/snake-dark.svg" width="100%" alt="Snake animation das contribuições">
-</picture>
 
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt=""/>
-</p>
 
-<!-- ══════════════════ 03 · EXPLORANDO ══════════════════ -->
-<img src="assets/title-learning.svg" width="100%" alt="03 — Explorando Agora"/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,redis,aws,docker&theme=dark" height="48" alt="Kubernetes, Redis, AWS, Docker"/>
-</p>
-
-<p align="center">
-  <code>cloud-native</code> · <code>orquestração de containers</code> · <code>alta disponibilidade</code>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt=""/>
-</p>
 
 <!-- ══════════════════ 04 · CONEXÃO ══════════════════ -->
 <img src="assets/title-contact.svg" width="100%" alt="04 — Conexão"/>
@@ -113,7 +87,4 @@
   </a>
 </p>
 
-<!-- ══════════════════ FOOTER ══════════════════ -->
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="End of transmission"/>
-</p>
+
