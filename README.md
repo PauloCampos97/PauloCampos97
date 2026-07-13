@@ -3,14 +3,6 @@
   <img src="assets/header.svg" width="100%" alt="Paulo Campos — Full Stack Developer. Arquitetura, SaaS, Performance, Segurança"/>
 </p>
 
-<!-- ══════════════════ TERMINAL / WHOAMI ══════════════════ -->
-<p align="center">
-  <img src="assets/terminal.svg" width="760" alt="Terminal animado: whoami — Full Stack Developer focado em Arquitetura SaaS, Multi-tenancy e Performance"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="100%" alt=""/>
-</p>
 
 <!-- ══════════════════ 01 · STACK ══════════════════ -->
 <img src="assets/title-stack.svg" width="100%" alt="01 — Stack Principal"/>
