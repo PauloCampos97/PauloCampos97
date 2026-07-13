@@ -8,17 +8,13 @@
 
 <br clear="both">
 
-<p align="left">- Estudando JavaScript, Typescript, React, NodeJs, Python e Tailwind <br>- A procura do primeiro emprego como Dev <br>- Upfly é um site que estou criando como portfólio; sintam-se à vontade para me dar opiniões sobre como melhorá-lo</p> 
+<p align="left">- Estudando JavaScript, Typescript, React, NodeJs, Python e Tailwind <br>- Dev Full Stack Pela Alpar
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-
-  <a href="https://upfly.cc" target="_blank">
-    <img src="https://github.com/PauloCampos97/PauloCampos97/blob/main/img-bronze.png" height="40" width="92"  alt="Upfly Logo"  />
   </a>
   
   <a href="https://www.instagram.com/paulo_polibio/" target="_blank">
