@@ -84,15 +84,11 @@ Atualmente participo do desenvolvimento de um ERP moderno utilizando as melhores
 # 📈 Estatísticas
 
 <p align="center">
+  <img src="metrics-general.svg" />
+</p>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCampos97&layout=compact&langs_count=8&theme=radical"/>
-
+<p align="center">
+  <img src="metrics-languages.svg" />
 </p>
 
 ---
@@ -118,8 +114,31 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos9
 # 🏆 Conquistas
 
 <p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=PauloCampos97&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="metrics-achievements.svg" />
+</p>
+
+---
+
+# ⏱ WakaTime
+
+<p align="center">
+  <img src="metrics-wakatime.svg" />
+</p>
+
+---
+
+# 🌆 Skyline
+
+<p align="center">
+  <img src="metrics-skyline.svg" />
+</p>
+
+---
+
+# 🐍 Cobrinha de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PauloCampos97/output/main/snake/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
