@@ -8,9 +8,9 @@
     </linearGradient>
   </defs>
   <!-- Number -->
-  <text x="0" y="30" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#bf3b48">01</text>
+  <text x="0" y="30" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#bf3b48">05</text>
   <!-- Title -->
-  <text x="48" y="30" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#e2e8f0" letter-spacing="1">Stack Principal</text>
+  <text x="48" y="30" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#e2e8f0" letter-spacing="1">Badges</text>
   <!-- Divider line -->
   <rect x="0" y="42" width="860" height="1" fill="url(#divGrad)"/>
 </svg>

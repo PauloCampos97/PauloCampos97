@@ -1,14 +1,13 @@
-<svg width="860" height="24" viewBox="0 0 860 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 24" width="860" height="24">
   <defs>
-    <linearGradient id="divGrad" x1="0" y1="0" x2="860" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="0.15" stop-color="#22D3EE" stop-opacity="0.4"/>
-      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.6"/>
-      <stop offset="0.85" stop-color="#C084FC" stop-opacity="0.4"/>
-      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#152039"/>
+      <stop offset="20%" stop-color="#bf3b48" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#bf3b48" stop-opacity="0.25"/>
+      <stop offset="80%" stop-color="#bf3b48" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#152039"/>
     </linearGradient>
   </defs>
-  <line x1="0" y1="12" x2="860" y2="12" stroke="url(#divGrad)" stroke-width="1" opacity="0.8"/>
-  <circle cx="430" cy="12" r="3" fill="#22D3EE" opacity="0.5"/>
-  <circle cx="430" cy="12" r="1.5" fill="#8B5CF6" opacity="0.8"/>
+  <rect x="0" y="11" width="860" height="1" fill="url(#lineGrad)"/>
+  <circle cx="430" cy="12" r="2" fill="#bf3b48" opacity="0.4"/>
 </svg>
