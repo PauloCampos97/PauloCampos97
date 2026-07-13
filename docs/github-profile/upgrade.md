@@ -2,11 +2,19 @@
 
 ## lowlighter/metrics
 
-O workflow usa `lowlighter/metrics@latest`. Para verificar atualizações:
+O workflow `metrics.yml` usa `lowlighter/metrics@latest`. Para verificar atualizações:
 
 1. Acesse [github.com/lowlighter/metrics/releases](https://github.com/lowlighter/metrics/releases)
 2. Verifique breaking changes no CHANGELOG
 3. Para fixar uma versão específica, troque `@latest` pela tag desejada
+
+## Platane/snk
+
+O workflow `snake.yml` usa `Platane/snk/svg-only@v3`. Para verificar atualizações:
+
+1. Acesse [github.com/Platane/snk/releases](https://github.com/Platane/snk/releases)
+2. Verifique breaking changes no release notes
+3. Para fixar uma versão específica, altere a tag `@v3` para a versão desejada
 
 ## Como verificar breaking changes
 
@@ -17,7 +25,12 @@ O workflow usa `lowlighter/metrics@latest`. Para verificar atualizações:
 ## Validação
 
 Verifique manualmente:
-- **YAML**: O arquivo `.github/workflows/metrics.yml` está sintaticamente correto
+
+- **YAML**: Os arquivos `.github/workflows/metrics.yml` e `.github/workflows/snake.yml` estão sintaticamente corretos
 - **Markdown**: Pré-visualize o README no VS Code
 - **Links**: Clique em cada link no README para confirmar que funcionam
-- **SVG**: Confira se `metrics/overview.svg` foi gerado corretamente
+- **SVGs**: Confira se os SVGs foram gerados corretamente:
+  - `metrics/overview.svg`
+  - `metrics/extras.svg`
+  - `assets/snake-dark.svg`
+  - `assets/snake-light.svg`

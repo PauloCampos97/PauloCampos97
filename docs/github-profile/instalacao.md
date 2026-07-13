@@ -12,7 +12,7 @@ cd PauloCampos97
 Vá em: **Settings → Secrets and variables → Actions**
 
 Crie:
-- `METRICS_TOKEN` — Fine-grained PAT com permissões de leitura
+- `METRICS_TOKEN` — Fine-grained PAT com permissões de leitura e escrita
 
 ## 3. Configure permissões dos workflows
 
@@ -20,9 +20,17 @@ Crie:
 
 ## 4. Execute manualmente
 
-Acesse a aba **Actions** e execute:
-1. GitHub Metrics → Run workflow
+Acesse a aba **Actions** e execute cada workflow:
+
+1. **GitHub Metrics** → Run workflow (gera `metrics/overview.svg` e `metrics/extras.svg`)
+2. **Generate Snake** → Run workflow (gera `assets/snake-dark.svg` e `assets/snake-light.svg`)
 
 ## 5. Verifique os resultados
 
-Após a execução, o SVG estará em `metrics/overview.svg`.
+Após a execução, os seguintes arquivos serão gerados:
+
+| Workflow | Saída |
+|---|---|
+| metrics.yml (job: overview) | `metrics/overview.svg` |
+| metrics.yml (job: extras) | `metrics/extras.svg` |
+| snake.yml | `assets/snake-dark.svg` e `assets/snake-light.svg` |

@@ -2,7 +2,7 @@
 
 ## METRICS_TOKEN
 
-Token de acesso pessoal para ler dados do GitHub.
+Token de acesso pessoal para ler dados do GitHub. Utilizado pelo workflow `metrics.yml`.
 
 ### Como criar
 
@@ -27,28 +27,9 @@ Token de acesso pessoal para ler dados do GitHub.
 4. Valor: cole o token gerado
 5. Salve
 
-## WAKATIME_API_KEY
-
-API key para estatísticas de tempo de codificação via WakaTime.
-
-### Como obter
-
-1. Crie conta em [wakatime.com](https://wakatime.com)
-2. Instale a extensão WakaTime no VS Code
-3. Acesse: **Settings → Account → API Key**
-4. Copie a chave
-
-### Como salvar
-
-1. **Settings → Secrets and variables → Actions**
-2. **New repository secret**
-3. Nome: `WAKATIME_API_KEY`
-4. Valor: cole a API key
-5. Salve
-
 ## GITHUB_TOKEN
 
-Token automático fornecido pelo GitHub Actions. Não precisa configurar.
+Token automático fornecido pelo GitHub Actions. Utilizado pelo workflow `snake.yml` para fazer commit dos SVGs gerados. Não precisa configurar.
 
 **Nunca coloque tokens diretamente nos arquivos YAML.**
 
