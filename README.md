@@ -45,7 +45,7 @@ Tenho interesse especial por:
 ### Banco de Dados
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma" />
 </p>
 
 ### Ferramentas
