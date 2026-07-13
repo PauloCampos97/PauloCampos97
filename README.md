@@ -3,133 +3,68 @@
 </p>
 
 <h1 align="center">Paulo Campos</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=BF3B48&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineer;Architecture+%26+SaaS;Performance+%26+Scalability" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Full Stack Developer</b> · Specialized in software architecture, SaaS platforms & high-performance applications
-</p>
+<p align="center"><b>Full Stack Developer</b></p>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/PauloCampos97?tab=followers">
-    <img src="https://img.shields.io/github/followers/PauloCampos97?style=for-the-badge&logo=github&label=Followers&color=152039&logoColor=white" />
-  </a>
-  <a href="https://github.com/PauloCampos97">
-    <img src="https://komarev.com/ghpvc/?username=PauloCampos97&style=for-the-badge&label=Visitors&color=BF3B48" />
-  </a>
-  <a href="https://github.com/PauloCampos97?tab=repositories">
-    <img src="https://img.shields.io/github/stars/PauloCampos97?style=for-the-badge&logo=github&label=Stars&color=152039&logoColor=white" />
-  </a>
+  Desenvolvedor Full Stack com foco em arquitetura de software, plataformas SaaS, performance e código limpo. Atualmente construindo um ERP Multi-tenant na <b>Alpar</b>.
 </p>
 
 <br/>
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-> Desenvolvedor Full Stack na **Alpar**, construindo um ERP Multi-tenant SaaS para gestão empresarial e contábil. Foco em arquitetura de software, escalabilidade, performance e código limpo.
+## Tecnologias
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎯 Foco Atual
-
-- **Arquitetura de Software** & Sistemas Distribuídos
-- **Plataformas SaaS** & Design Multi-tenant
-- **Performance** & Otimização
-- **Segurança** de Aplicações
-- **IA** aplicada ao Desenvolvimento
-
-    </td>
-    <td width="50%" valign="top">
-
-### ⚡ Princípios
-
-- Código limpo e manutenível
-- Escalabilidade desde o design
-- Segurança como prioridade
-- Documentação como prática
-- Melhoria contínua
-
-    </td>
-  </tr>
-</table>
+| Categoria | |
+|-----------|-|
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" /> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode,postman,npm,yarn&theme=dark" /> |
 
 <br/>
 
 ---
 
-## 🛠 Stack Tecnológica
+## GitHub
 
-<table>
-  <tr>
-    <td width="100" align="center" valign="top"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="top"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="top"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,prisma&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="top"><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100" align="center" valign="top"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn&theme=dark" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<p align="center">
+  <img src="metrics/overview.svg" alt="GitHub Overview" />
+</p>
 
 <br/>
 
 ---
 
-## 📊 Métricas
+## Projetos
 
 <br/>
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="metrics/general.svg" alt="General Metrics" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="metrics/languages.svg" alt="Languages" />
-    </td>
-  </tr>
-</table>
+### Alpar ERP
+Plataforma ERP Multi-tenant SaaS para gestão empresarial e contábil — arquitetura modular e escalável.
+
+`React` `Node.js` `PostgreSQL` `Docker`
+
+<br/>
+
+### GitHub Profile
+Infraestrutura automatizada de perfil profissional com métricas dinâmicas via GitHub Actions.
+
+`YAML` `GitHub Actions`
+
+ → [Acessar repositório](https://github.com/PauloCampos97/PauloCampos97)
 
 <br/>
 
 ---
 
-## 📫 Contato
+## Contato
 
 <br/>
 

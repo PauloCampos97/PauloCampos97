@@ -1,10 +1,9 @@
 # Manutenção
 
-## Atualização dos workflows
+## Atualização do workflow
 
-Os workflows são executados automaticamente via cron:
-- `metrics.yml`: 00:00 UTC diariamente (inclui métricas gerais + WakaTime)
-- `snake.yml`: 00:00 UTC diariamente
+O workflow é executado automaticamente via cron:
+- `metrics.yml`: 00:00 UTC diariamente
 
 Para executar manualmente:
 1. Acesse **Actions** no GitHub
@@ -14,16 +13,14 @@ Para executar manualmente:
 ## Verificação de saúde (recomendado: mensal)
 
 1. Acesse **Actions** e verifique se há falhas recorrentes
-2. Verifique se os SVGs estão sendo gerados corretamente
+2. Verifique se o SVG foi gerado corretamente
 3. Confirme se o token `METRICS_TOKEN` não expirou
 4. Valide se os links do README continuam funcionando
-5. Verifique se a branch `output` existe para a snake animation
 
 ## Renovação de tokens
 
 - **METRICS_TOKEN**: Se configurado com expiração, renove antes do vencimento
-- **WAKATIME_API_KEY**: Não expira, mas pode ser revogada manualmente
 
 ## Limpeza
 
-Os workflows são configurados com `concurrency` para cancelar execuções duplicadas automaticamente.
+O workflow é configurado com `concurrency` para cancelar execuções duplicadas automaticamente.

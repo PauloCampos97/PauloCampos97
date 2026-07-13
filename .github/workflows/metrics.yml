@@ -1,231 +1,27 @@
 name: GitHub Metrics
-
 on:
-  workflow_dispatch:
-
   schedule:
-    - cron: "20 5 * * *"
-
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/metrics.yml"
+    branches: [main]
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
 
-concurrency:
-  group: github-profile-metrics
-  cancel-in-progress: true
-
 jobs:
-  overview:
-    name: Overview
+  metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-
+    timeout-minutes: 10
     steps:
-      - name: Generate overview
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: PauloCampos97
-
-          filename: metrics/overview.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update GitHub metrics [skip ci]"
-
           template: classic
           base: header, activity, community, repositories, metadata
-
           config_timezone: America/Sao_Paulo
-          config_display: large
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-          repositories_forks: no
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_repositories_limit: 4
-
-  development:
-    name: Languages and habits
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
-
-    steps:
-      - name: Generate development metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PauloCampos97
-
-          filename: metrics/development.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update development metrics [skip ci]"
-
-          template: classic
-          base: ""
-
-          config_timezone: America/Sao_Paulo
-          config_display: large
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: percentage
-          plugin_languages_categories: programming, markup
-          plugin_languages_colors: github
-          plugin_languages_threshold: 0%
-          plugin_languages_indepth: no
-
-          plugin_habits: yes
-          plugin_habits_from: 300
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_trim: yes
-
-  calendar:
-    name: Contribution calendar
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-
-    steps:
-      - name: Generate contribution calendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PauloCampos97
-
-          filename: metrics/calendar.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update contribution calendar [skip ci]"
-
-          template: classic
-          base: ""
-
-          config_timezone: America/Sao_Paulo
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-
-          plugin_calendar: yes
-          plugin_calendar_limit: 2
-
-  achievements:
-    name: Achievements
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-    continue-on-error: true
-
-    steps:
-      - name: Generate achievements
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PauloCampos97
-
-          filename: metrics/achievements.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update achievements [skip ci]"
-
-          template: classic
-          base: ""
-
-          config_timezone: America/Sao_Paulo
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_limit: 8
-          plugin_achievements_secrets: yes
-
-  repositories:
-    name: Featured repositories
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
-
-    steps:
-      - name: Generate featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PauloCampos97
-
-          filename: metrics/repositories.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update featured repositories [skip ci]"
-
-          template: classic
-          base: ""
-
-          config_timezone: America/Sao_Paulo
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-
-          plugin_repositories: yes
-          plugin_repositories_featured: PauloCampos97/PauloCampos97
-          plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_affiliations: owner
-
-
-
-            skyline:
-    name: GitHub Skyline
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
-    continue-on-error: true
-
-    steps:
-      - name: Generate GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: PauloCampos97
-
-          filename: metrics/skyline.svg
-          output_action: commit
-          committer_branch: main
-          committer_message: "chore: update GitHub Skyline [skip ci]"
-
-          template: classic
-          base: ""
-
-          config_timezone: America/Sao_Paulo
-          config_output: svg
-          config_padding: 0, 8 + 2%
-
-          plugins_errors_fatal: yes
-
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 30
-          plugin_skyline_quality: 0.5
-          plugin_skyline_compatibility: yes
+          filename: metrics/overview.svg

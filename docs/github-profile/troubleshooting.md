@@ -12,24 +12,17 @@
 
 **Solução**: Renove o `METRICS_TOKEN` em Settings → Developer settings → Personal access tokens.
 
-## WakaTime não mostra dados
-
-**Causa**: API key incorreta, sem dados registrados, ou métrica ainda não gerada.
-
-**Solução**:
-1. Verifique se a extensão WakaTime está instalada e configurada no VS Code
-2. Confirme o valor do secret `WAKATIME_API_KEY`
-3. Execute o workflow `metrics.yml` manualmente
-4. Teste a chave em [wakatime.com/api-key](https://wakatime.com/api-key)
-
-## SVGs não são atualizados
+## SVG não é atualizado
 
 **Causa**: Workflow não executou ou falhou.
 
-**Solução**: Vá em **Actions**, selecione o workflow e execute manualmente.
+**Solução**: Vá em **Actions**, selecione o workflow "GitHub Metrics" e clique em **Run workflow**.
 
-## Snake animation não aparece
+## Overview não aparece no perfil
 
-**Causa**: Branch `output` não foi criada.
+**Causa**: Caminho incorreto ou SVG não gerado.
 
-**Solução**: Execute o workflow `snake.yml` manualmente. A branch será criada automaticamente.
+**Solução**:
+1. Execute o workflow manualmente
+2. Verifique se o arquivo `metrics/overview.svg` foi gerado
+3. Confirme que o caminho no README está correto

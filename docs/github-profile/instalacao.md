@@ -12,8 +12,7 @@ cd PauloCampos97
 Vá em: **Settings → Secrets and variables → Actions**
 
 Crie:
-- `METRICS_TOKEN` - Fine-grained PAT
-- `WAKATIME_API_KEY` - API key do WakaTime
+- `METRICS_TOKEN` — Fine-grained PAT com permissões de leitura
 
 ## 3. Configure permissões dos workflows
 
@@ -23,8 +22,7 @@ Crie:
 
 Acesse a aba **Actions** e execute:
 1. GitHub Metrics → Run workflow
-2. Generate Snake → Run workflow
 
 ## 5. Verifique os resultados
 
-Após a execução, os SVGs estarão em `metrics/` e a snake em `github-contribution-grid-snake.svg`.
+Após a execução, o SVG estará em `metrics/overview.svg`.

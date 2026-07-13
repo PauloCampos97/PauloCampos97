@@ -1,8 +1,8 @@
-# GitHub Profile - Documentação
+# GitHub Profile — Documentação
 
 Bem-vindo à documentação do perfil GitHub de [PauloCampos97](https://github.com/PauloCampos97).
 
-Este repositório é automatizado com GitHub Actions para gerar métricas dinâmicas, estatísticas WakaTime e animações.
+Este repositório mantém um perfil profissional minimalista com métricas dinâmicas geradas via GitHub Actions.
 
 ## Índice
 
@@ -17,15 +17,12 @@ Este repositório é automatizado com GitHub Actions para gerar métricas dinâm
 
 O perfil é composto por:
 
-- **README.md** - Perfil principal com seções visuais
-- **8 SVGs de métricas** - Gerados automaticamente pelo lowlighter/metrics
-- **Snake animation** - Animação do grid de contribuições
-- **2 workflows** - GitHub Actions para automação
+- **README.md** — Perfil principal com layout minimalista
+- **1 SVG de métricas** — Gerado automaticamente pelo lowlighter/metrics
+- **1 workflow** — GitHub Actions para automação
 
 ## Tecnologias
 
 | Ferramenta | Versão | Função |
 |---|---|---|
-| lowlighter/metrics | latest | Geração de SVGs com métricas do GitHub |
-| Platane/snk | v3 | Geração da cobrinha de contribuições |
-| WakaTime | API v2 | Estatísticas de tempo de codificação |
+| lowlighter/metrics | latest | Geração do SVG com métricas do GitHub |
