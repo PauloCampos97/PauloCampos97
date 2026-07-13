@@ -1,86 +1,143 @@
-<h1 align="left">Olá Mundo!! Meu nome é Paulo Campos</h1>
+<h1 align="center">👋 Olá, eu sou Paulo Campos</h1>
 
-###
+<h3 align="center">
+Desenvolvedor Full Stack • React • Next.js • Node.js • TypeScript
+</h3>
 
-<h3 align="left">Sobre</h3>
+<p align="center">
+Atualmente atuo no desenvolvimento de um ERP SaaS Multi-tenant para gestão empresarial e contábil na <strong>Alpar</strong>, construindo aplicações escaláveis, seguras e de alta performance.
+</p>
 
-###
+---
 
-<br clear="both">
+## 🚀 Sobre mim
 
-<p align="left">- Estudando JavaScript, Typescript, React, NodeJs, Python e Tailwind <br>- Dev Full Stack Pela Alpar
+Sou Desenvolvedor Full Stack apaixonado por tecnologia e arquitetura de software.
 
-###
+Atualmente participo do desenvolvimento de um ERP moderno utilizando as melhores práticas de engenharia de software, arquitetura escalável e aplicações web de alta performance.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/paulo_polibio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:paulocrz97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+Tenho interesse especial por:
 
+- 🏗 Arquitetura de Software
+- ⚡ Performance
+- 🔒 Segurança de Aplicações
+- ☁️ Sistemas SaaS
+- 🏢 ERP
+- 📄 Integrações Fiscais (NFS-e)
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento
 
-###
+---
 
-<br clear="both">
+## 💻 Tecnologias
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloCampos97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### Front-end
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-<h3 align="left">Techs</h3>
+### Back-end
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-<br clear="both">
+### Banco de Dados
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
+</p>
 
-###
+### Ferramentas
 
-<h3 align="left">Status</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&radius=15&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+## 🚀 Atualmente
 
-###
+Estou trabalhando em projetos envolvendo:
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=PauloCampos97&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
+- ✅ ERP SaaS Multi-tenant
+- ✅ APIs REST
+- ✅ Next.js App Router
+- ✅ React
+- ✅ Node.js
+- ✅ Express
+- ✅ TypeScript
+- ✅ PostgreSQL
+- ✅ Prisma ORM
+- ✅ Tailwind CSS
+- ✅ Docker
+- ✅ Integração NFS-e
+- ✅ Documentação Técnica
+- ✅ Arquitetura de Sistemas
 
-###
+---
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=PauloCampos97&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 📈 Estatísticas
 
-###
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&show_icons=true&theme=radical&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCampos97&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PauloCampos97&theme=radical"/>
+</p>
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&theme=github-compact&radius=12"/>
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PauloCampos97&theme=radical&margin-w=15&margin-h=15&column=4"/>
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:paulocrz97@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/paulo_polibio/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Filosofia
+
+> "A tecnologia não é apenas escrever código. É criar soluções que resolvem problemas reais com qualidade, segurança e escalabilidade."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PauloCampos97&style=for-the-badge&color=red"/>
+
+</p>
