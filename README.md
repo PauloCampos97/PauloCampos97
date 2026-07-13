@@ -1,16 +1,15 @@
-<h1 align="center">👋 Olá, eu sou Paulo Campos</h1>
-
-<h3 align="center">
-Desenvolvedor Full Stack • React • Next.js • Node.js • TypeScript
-</h3>
-
 <p align="center">
-Atualmente atuo no desenvolvimento de um ERP SaaS Multi-tenant para gestão empresarial e contábil na <strong>Alpar</strong>, construindo aplicações escaláveis, seguras e de alta performance.
+  <img src="assets/banner.svg" width="100%" />
 </p>
+
+<h1 align="center">👋 Olá, eu sou Paulo Campos</h1>
 
 <p align="center">
   <a href="https://github.com/PauloCampos97">
     <img src="https://komarev.com/ghpvc/?username=PauloCampos97&style=for-the-badge&color=red" />
+  </a>
+  <a href="https://github.com/PauloCampos97?tab=followers">
+    <img src="https://img.shields.io/github/followers/PauloCampos97?style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -18,77 +17,60 @@ Atualmente atuo no desenvolvimento de um ERP SaaS Multi-tenant para gestão empr
 
 # 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack apaixonado por tecnologia e arquitetura de software.
+Sou Desenvolvedor **Full Stack** apaixonado por tecnologia e arquitetura de software. Atualmente atuo no desenvolvimento de um **ERP SaaS Multi-tenant** para gestão empresarial e contábil na **Alpar**, construindo aplicações escaláveis, seguras e de alta performance.
 
-Atualmente participo do desenvolvimento de um ERP moderno utilizando as melhores práticas de engenharia de software, arquitetura escalável e aplicações web de alta performance.
-
-## Tenho interesse especial por:
-
-- 🏗 Arquitetura de Software
-- ⚡ Performance
-- 🔒 Segurança de Aplicações
-- ☁️ Sistemas SaaS
-- 🏢 ERP
-- 📄 Integrações NFS-e
-- 🤖 Inteligência Artificial aplicada ao desenvolvimento
+### Tenho interesse especial por:
+- 🏗 **Arquitetura de Software**
+- ⚡ **Performance e Otimização**
+- 🔒 **Segurança de Aplicações**
+- ☁️ **Sistemas SaaS**
+- 🏢 **ERP**
+- 📄 **Integrações NFS-e**
+- 🤖 **Inteligência Artificial**
 
 ---
 
-# 💻 Tecnologias
+# 💻 Stack Tecnológica
 
 ### Front-end
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
 ### Back-end
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ### Banco de Dados
-
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
 </p>
 
-### Ferramentas
-
+### Ferramentas & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm,yarn,bash" />
 </p>
 
 ---
 
-# 🚀 Atualmente
-
-- ✅ ERP SaaS Multi-tenant
-- ✅ APIs REST
-- ✅ Next.js App Router
-- ✅ React
-- ✅ Node.js
-- ✅ Express
-- ✅ TypeScript
-- ✅ PostgreSQL
-- ✅ Prisma ORM
-- ✅ Tailwind CSS
-- ✅ Docker
-- ✅ Integrações NFS-e
-- ✅ Arquitetura de Sistemas
-- ✅ Documentação Técnica
-
----
-
-# 📈 Estatísticas
+# 📊 Métricas
 
 <p align="center">
-  <img src="metrics-general.svg" />
+  <img src="metrics/general.svg" />
 </p>
 
 <p align="center">
-  <img src="metrics-languages.svg" />
+  <img src="metrics/languages.svg" />
+  <img src="metrics/habits.svg" />
+</p>
+
+<p align="center">
+  <img src="metrics/calendar.svg" />
+</p>
+
+<p align="center">
+  <img src="metrics/repositories.svg" />
 </p>
 
 ---
@@ -96,8 +78,7 @@ Atualmente participo do desenvolvimento de um ERP moderno utilizando as melhores
 # 🔥 Sequência de Contribuições
 
 <p align="center">
-<img
-src="https://streak-stats.demolab.com?user=PauloCampos97&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=PauloCampos97&theme=radical" />
 </p>
 
 ---
@@ -105,40 +86,47 @@ src="https://streak-stats.demolab.com?user=PauloCampos97&theme=radical"/>
 # 📊 Gráfico de Atividade
 
 <p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&theme=react-dark" />
 </p>
 
 ---
 
-# 🏆 Conquistas
+# 🏆 Conquistas & Skyline
 
 <p align="center">
-  <img src="metrics-achievements.svg" />
+  <img src="metrics/achievements.svg" />
+</p>
+
+<p align="center">
+  <img src="metrics/skyline.svg" />
 </p>
 
 ---
 
-# ⏱ WakaTime
+# ⏱ WakaTime — Estatísticas de Codificação
 
 <p align="center">
-  <img src="metrics-wakatime.svg" />
-</p>
-
----
-
-# 🌆 Skyline
-
-<p align="center">
-  <img src="metrics-skyline.svg" />
+  <img src="metrics/wakatime.svg" />
 </p>
 
 ---
 
 # 🐍 Cobrinha de Contribuições
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCampos97/output/main/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloCampos97/output/main/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PauloCampos97/output/main/snake/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
+# 📌 Projetos em Destaque
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PauloCampos97/output/main/snake/github-contribution-grid-snake-dark.svg" />
+  <a href="https://github.com/PauloCampos97/PauloCampos97">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloCampos97&repo=PauloCampos97&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -146,26 +134,22 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos9
 # 🌎 Contato
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:paulocrz97@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/paulo_polibio/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/paulo-campos-78174015a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:paulocrz97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/paulo_polibio/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # 💡 Filosofia
 
-> "A tecnologia não é apenas escrever código. É criar soluções que resolvem problemas reais com qualidade, segurança e escalabilidade."
+> *"A tecnologia não é apenas escrever código. É criar soluções que resolvem problemas reais com qualidade, segurança e escalabilidade."*
 
 ---
 
@@ -174,5 +158,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos9
 ### ⭐ Obrigado pela visita!
 
 Se gostou de algum projeto, deixe uma ⭐ no repositório!
+
+---
+
+<sub>✨ Gerado automaticamente com [lowlighter/metrics](https://github.com/lowlighter/metrics) e [Platane/snk](https://github.com/Platane/snk) • Última atualização: 2026</sub>
 
 </div>
