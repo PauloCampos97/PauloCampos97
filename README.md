@@ -126,29 +126,6 @@
       <img src="metrics/habits.svg" alt="Coding Habits" />
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="metrics/calendar.svg" alt="Commit Calendar" />
-    </td>
-    <td width="50%" align="center">
-      <img src="metrics/repositories.svg" alt="Repositories" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="metrics/wakatime.svg" alt="WakaTime Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="metrics/skyline.svg" alt="Skyline" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="metrics/achievements.svg" alt="Achievements" />
-    </td>
-  </tr>
 </table>
 
 <br/>
