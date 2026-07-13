@@ -122,9 +122,6 @@
     <td width="50%" align="center">
       <img src="metrics/languages.svg" alt="Languages" />
     </td>
-    <td width="50%" align="center">
-      <img src="metrics/habits.svg" alt="Coding Habits" />
-    </td>
   </tr>
 </table>
 
