@@ -3,9 +3,36 @@
      Identidade: Alpar  ·  #bf3b48  ·  #152039
      ═══════════════════════════════════════════════ -->
 
-<!-- ──────────────────────────────────────────────
-     BANNER
-     ────────────────────────────────────────────── -->
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋"></h1>
+
+<h3 align="center">
+  <samp>Paulo Campos · Full Stack Developer @ <strong>Alpar</strong></samp>
+</h3>
+
+<br>
+
+<!-- ─── CONTATO ─── -->
+<div align="center">
+  <a title="LinkedIn" href="https://linkedin.com/in/paulo-campos-78174015a">
+    <img src="https://img.shields.io/badge/LinkedIn-152039?style=for-the-badge&logo=linkedin&logoColor=bf3b48" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a title="GitHub" href="https://github.com/PauloCampos97">
+    <img src="https://img.shields.io/badge/GitHub-152039?style=for-the-badge&logo=github&logoColor=bf3b48" alt="GitHub">
+  </a>
+  &nbsp;
+  <a title="Email" href="mailto:paulo.s.campos@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-152039?style=for-the-badge&logo=gmail&logoColor=bf3b48" alt="Email">
+  </a>
+  &nbsp;
+  <a title="Instagram" href="https://instagram.com/paulo_campos_97">
+    <img src="https://img.shields.io/badge/Instagram-152039?style=for-the-badge&logo=instagram&logoColor=bf3b48" alt="Instagram">
+  </a>
+</div>
+
+---
+
+<!-- ─── BANNER ─── -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
@@ -14,34 +41,21 @@
 
 <br>
 
-<h2 align="center">Paulo Campos</h2>
-<h3 align="center">
-  <samp>Engenharia de Software  ·  Arquitetura SaaS  ·  ERP Multi-tenant</samp>
-</h3>
-
 <p align="center">
   <samp>
-    Desenvolvedor Full Stack com foco em arquitetura de sistemas corporativos, SaaS multi-tenant e 
-    aplicações de alta performance. Especialista em TypeScript, Node.js, React e Next.js. 
-    Construindo a próxima geração de ERPs na <strong>Alpar</strong> — unindo backend robusto, 
+    Desenvolvedor Full Stack com foco em arquitetura de sistemas corporativos, SaaS multi-tenant e
+    aplicações de alta performance. Especialista em TypeScript, Node.js, React e Next.js.
+    Construindo a próxima geração de ERPs na <strong>Alpar</strong> — unindo backend robusto,
     interfaces modernas e infraestrutura escalável.
   </samp>
 </p>
 
-<br>
+---
 
-<!-- ──────────────────────────────────────────────
-     DIVIDER
-     ────────────────────────────────────────────── -->
-<img src="assets/divider.svg" width="100%" alt="">
+<!-- ─── STACK PRINCIPAL ─── -->
+<h2 align="center">⚡ Stack Principal</h2>
 
 <br>
-<br>
-
-<!-- ──────────────────────────────────────────────
-     01 · STACK PRINCIPAL
-     ────────────────────────────────────────────── -->
-<img src="assets/title-stack.svg" width="100%" alt="01 — Stack Principal">
 
 <table align="center">
   <tr>
@@ -83,30 +97,26 @@
 </table>
 
 <br>
-<br>
 
-<!-- ──────────────────────────────────────────────
-     02 · GITHUB DASHBOARD
-     ────────────────────────────────────────────── -->
-<img src="assets/title-dashboard.svg" width="100%" alt="02 — GitHub Dashboard">
+---
+
+<!-- ─── GITHUB DASHBOARD ─── -->
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <br>
 
 <table align="center">
   <tr>
-    <!-- CARD 1: Stats -->
     <td align="center" width="33%">
       <a href="https://github.com/PauloCampos97">
         <img src="https://github-readme-stats.vercel.app/api?username=PauloCampos97&show_icons=true&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&icon_color=bf3b48&ring_color=bf3b48&include_all_commits=true&count_private=true&custom_title=📊%20Atividade&hide=stars&locale=pt-br" width="100%" alt="GitHub Stats">
       </a>
     </td>
-    <!-- CARD 2: Top Langs -->
     <td align="center" width="33%">
       <a href="https://github.com/PauloCampos97">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCampos97&layout=compact&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&langs_count=6&hide=html,css&custom_title=💻%20Linguagens&locale=pt-br" width="100%" alt="Top Languages">
       </a>
     </td>
-    <!-- CARD 3: Streak -->
     <td align="center" width="33%">
       <a href="https://github.com/PauloCampos97">
         <img src="https://streak-stats.demolab.com?user=PauloCampos97&hide_border=true&background=152039&stroke=bf3b48&ring=bf3b48&fire=bf3b48&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=bf3b48&sideLabels=6b7280&dates=6b7280&locale=pt-br" width="100%" alt="Streak Stats">
@@ -117,13 +127,16 @@
 
 <br>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCampos97&bg_color=152039&color=bf3b48&line=bf3b48&point=e2e8f0&area=true&hide_border=true&radius=8&height=280&custom_title=🔥%20Gráfico%20de%20Contribuições" width="95%" alt="Activity Graph">
+</p>
+
 <br>
 
-<!-- ──────────────────────────────────────────────
-     03 · PROJETOS
-     ────────────────────────────────────────────── -->
-<img src="assets/title-projects.svg" width="100%" alt="03 — Projetos">
+---
+
+<!-- ─── PROJETOS EM DESTAQUE ─── -->
+<h2 align="center">📌 Projetos em Destaque</h2>
 
 <br>
 
@@ -133,27 +146,16 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PauloCampos97/PauloCampos97">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloCampos97&repo=PauloCampos97&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&icon_color=bf3b48&show_owner=false" width="400" alt="Projects">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/PauloCampos97/PauloCampos97">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloCampos97&repo=PauloCampos97&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&icon_color=bf3b48&show_owner=false&description_lines_count=2" width="400" alt="More Projects">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PauloCampos97/PauloCampos97">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloCampos97&repo=PauloCampos97&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&icon_color=bf3b48&show_owner=false&description_lines_count=2" width="400" alt="More Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PauloCampos97&repo=PauloCampos97&hide_border=true&bg_color=152039&title_color=bf3b48&text_color=e2e8f0&icon_color=bf3b48&show_owner=false" width="400" alt="Project">
   </a>
 </p>
 
 <br>
-<br>
 
-<!-- ──────────────────────────────────────────────
-     04 · CONTRIBUTIONS  (Snake)
-     ────────────────────────────────────────────── -->
-<img src="assets/title-snake.svg" width="100%" alt="04 — Contributions">
+---
+
+<!-- ─── CONTRIBUIÇÕES (SNAKE) ─── -->
+<h2 align="center">🐍 Contribuições</h2>
 
 <br>
 
@@ -164,16 +166,15 @@
 </picture>
 
 <br>
+
+---
+
+<!-- ─── BADGES ─── -->
+<h2 align="center">🏷️ Badges</h2>
+
 <br>
 
-<!-- ──────────────────────────────────────────────
-     05 · BADGES
-     ────────────────────────────────────────────── -->
-<img src="assets/title-badges.svg" width="100%" alt="05 — Badges">
-
-<br>
-
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/TypeScript-152039?style=for-the-badge&logo=typescript&logoColor=bf3b48" alt="TypeScript">
   &nbsp;
   <img src="https://img.shields.io/badge/React-152039?style=for-the-badge&logo=react&logoColor=bf3b48" alt="React">
@@ -181,35 +182,32 @@
   <img src="https://img.shields.io/badge/Next.js-152039?style=for-the-badge&logo=nextdotjs&logoColor=bf3b48" alt="Next.js">
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-152039?style=for-the-badge&logo=nodedotjs&logoColor=bf3b48" alt="Node.js">
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-152039?style=for-the-badge&logo=postgresql&logoColor=bf3b48" alt="PostgreSQL">
   &nbsp;
   <img src="https://img.shields.io/badge/Docker-152039?style=for-the-badge&logo=docker&logoColor=bf3b48" alt="Docker">
-  &nbsp;
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-152039?style=for-the-badge&logo=amazonwebservices&logoColor=bf3b48" alt="AWS">
   &nbsp;
   <img src="https://img.shields.io/badge/Linux-152039?style=for-the-badge&logo=linux&logoColor=bf3b48" alt="Linux">
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://img.shields.io/badge/Git-152039?style=for-the-badge&logo=git&logoColor=bf3b48" alt="Git">
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-152039?style=for-the-badge&logo=github&logoColor=bf3b48" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitHub-152039?style=for-the-badge&logo=github&logoColor=bf3b48" alt="GitHub">
   &nbsp;
   <img src="https://img.shields.io/badge/Tailwind-152039?style=for-the-badge&logo=tailwindcss&logoColor=bf3b48" alt="Tailwind CSS">
   &nbsp;
   <img src="https://img.shields.io/badge/Prisma-152039?style=for-the-badge&logo=prisma&logoColor=bf3b48" alt="Prisma">
-</p>
+</div>
 
 <br>
-<br>
 
-<!-- ──────────────────────────────────────────────
-     06 · TROFÉUS
-     ────────────────────────────────────────────── -->
-<img src="assets/title-trophies.svg" width="100%" alt="06 — Troféus">
+---
+
+<!-- ─── TROFÉUS ─── -->
+<h2 align="center">🏆 Troféus GitHub</h2>
 
 <br>
 
@@ -218,12 +216,11 @@
 </p>
 
 <br>
-<br>
 
-<!-- ──────────────────────────────────────────────
-     07 · CONTATO
-     ────────────────────────────────────────────── -->
-<img src="assets/title-contact.svg" width="100%" alt="07 — Contato">
+---
+
+<!-- ─── CONTATO ─── -->
+<h2 align="center">📫 Contato</h2>
 
 <br>
 
