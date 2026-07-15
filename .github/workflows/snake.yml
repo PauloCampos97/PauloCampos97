@@ -28,7 +28,7 @@ jobs:
           cp dist/snake-dark.svg assets/snake-dark.svg
 
       - name: Commit snake SVGs
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: update snake animation [skip ci]"
           file_pattern: assets/snake*.svg
